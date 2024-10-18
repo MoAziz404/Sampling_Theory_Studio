@@ -41,7 +41,7 @@ The Sampling theory studio is a desktop application designed to illustrates the 
 1. **Clone the Repository**
 
    ```shell
-   git clone [https://github.com/fadymohsen/Sampling-Theory-Studio]
+   git clone [https://github.com/MoAziz404/Sampling_Theory_Studio)]
    cd [Sampling-Theory-Studio]
    ```
 
@@ -92,9 +92,3 @@ The Sampling theory studio is a desktop application designed to illustrates the 
 - **wfdb:** Used for loading, writing, and processing WFDB signals and annotations.
 - **NumPy and pandas:** Manage numerical operations and data management.
 ---
-
-## Team Members: <br>
-1- Fady Mohsen <br>
-2- Ahmad Mahmoud <br>
-3- Shehab Mohamad <br>
-4- Mohamad Aziz <br>
